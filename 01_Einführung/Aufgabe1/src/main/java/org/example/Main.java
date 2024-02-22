@@ -3,14 +3,10 @@ import java.util.stream.IntStream;
 
 public class Main {
     public static void main(String[] args) {
-        ShoppingCart cart = new ShoppingCart();
-        cart.addItem("book");
-        cart.addItem("castor");
-        cart.removeItem("book");
-        cart.addItem("book");
-        cart.addItem("book");
-
-        System.out.println(cart.calculateDiscount());
+        TipCalculator calc = new TipCalculator();
+        calc.addPerson("Java");
+        calc.addPerson("Java");
+        System.out.println(calc.getTipPercentage());
     }
     public static int wordScore(String word) {
         return (int) word.chars()
