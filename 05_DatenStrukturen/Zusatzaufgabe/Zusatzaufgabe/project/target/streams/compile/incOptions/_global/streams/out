@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\kusib\Schule Allgemein\Module\M-323 aktuell\behan_m323\05_DatenStrukturen\Zusatzaufgabe\Zusatzaufgabe\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\kusib\Schule Allgemein\Module\M-323 aktuell\behan_m323\05_DatenStrukturen\Zusatzaufgabe\Zusatzaufgabe\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Removing the temporary directory used for backing up class files: C:\Users\kusib\Schule Allgemein\Module\M-323 aktuell\behan_m323\05_DatenStrukturen\Zusatzaufgabe\Zusatzaufgabe\project\target\scala-2.12\sbt-1.0\classes.bak
